@@ -1,0 +1,1045 @@
+{
+	"folder_history":
+	[
+		"/G/webtemp/skyjs",
+		"/E/work/gitwork/jwst",
+		"/E/work/workspace2/jwst",
+		"/E/work/workspace2/jwst/src/main/webapp",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page",
+		"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage",
+		"/C/Users/Songwen/Desktop/webtemp/treeDemo",
+		"/E/work/myfile/js/demo",
+		"/E/work/workspace/vtlte/WebRoot/vtlte/page/config_manage",
+		"/F/sendi/需求/VOLTE/笔记",
+		"/C/Users/Songwen/Desktop/webtemp",
+		"/C/Users/Songwen/Desktop/temp/votel demo/layoutit"
+	],
+	"last_version": 3103,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 717.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"f",
+						"font-size"
+					],
+					[
+						"o",
+						"option	Tag"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"data",
+						"datas"
+					],
+					[
+						"node",
+						"node"
+					],
+					[
+						"json",
+						"jsonUrl"
+					],
+					[
+						"obj",
+						"objtip"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"onc",
+						"onclick	Attr"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"is",
+						"isNull"
+					],
+					[
+						"s",
+						"script	Tag"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"st",
+						"style	Tag"
+					],
+					[
+						"l",
+						"li	Tag"
+					],
+					[
+						"i",
+						"input	Tag"
+					],
+					[
+						"di",
+						"div	Tag"
+					],
+					[
+						"t",
+						"td	Tag"
+					],
+					[
+						"adu",
+						"audit_time"
+					],
+					[
+						"sele",
+						"SELECT"
+					],
+					[
+						"ins",
+						"INSERT"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/work/gitwork/jwst/src/main/webapp/secure-shell/secure_shell.jsp",
+				"/E/work/workspace2/ydvolte/WebRoot/WEB-INF/classes/application.properties",
+				"/F/sendi/需求/VT移动端/flow_intone.txt",
+				"/F/sendi/需求/VT移动端/tdr_data_new.sql",
+				"/F/sendi/需求/VT移动端/RecordQueryFlowChart_20160319184751/Callflowchart.html",
+				"/F/sendi/需求/VT移动端/RecordQueryFlowChart_20160319184751/pcap/[20160318151056.799000][DIAMETER][HBDRA02 - HBSAEGW06BHW]export_44226_2659075592_1155314065377998848.pcap",
+				"/E/work/gitwork/j4t/.gitignore",
+				"/E/work/workspace/logAudit/WebRoot/page/report/js/login_log_verify.js",
+				"/C/Users/Songwen/Desktop/device90 52 上未显示",
+				"/E/work/dumps/pengchuang/pengchuang_logs_0421_000.sql",
+				"/C/Users/Songwen/Desktop/pengchuang_logs(2).sql",
+				"/C/Users/Songwen/Desktop/pengchuang_logs.sql",
+				"/C/Users/Songwen/Desktop/test.csv",
+				"/C/Users/Songwen/Desktop/case_20160418152432.csv",
+				"/C/Users/Songwen/Desktop/pengchuang_event_power.sql",
+				"/C/Users/Songwen/Desktop/pengchuang_date.sql",
+				"/E/work/dumps/pengchuang/pengchuang_logs_0421_2.sql",
+				"/E/work/dumps/pengchuang/pengchuang_logs_0421.sql",
+				"/F/sendi/无标题文档",
+				"/C/Users/Songwen/Desktop/工作簿2.csv",
+				"/C/Users/Songwen/Desktop/原始操作.csv",
+				"/G/temp/jcterm-0.0.11/src/main/java/com/jcraft/jcterm/JCTermSwingFrame.java",
+				"/E/work/gitwork/jwst/.gitignore",
+				"/C/Users/Songwen/AppData/Local/Temp/HZ$D.132.1473/HZ$D.132.1474/term.js-0.0.7/src/term.js",
+				"/E/work/gitwork/jwst/src/main/webapp/_res/js/tty/term.js",
+				"/E/games/Grand Theft Auto V/注意：请运行Launcher.exe开始游戏",
+				"/C/Users/Songwen/Desktop/pengchuang_event.sql",
+				"/C/Users/Songwen/Desktop/pengchuang_power.sql",
+				"/E/work/gitwork/jwst/src/main/webapp/index.jsp",
+				"/V/access.zh-cn/accessmui.xml",
+				"/E/work/workspace2/sublimework/jwst.sublime-project",
+				"/E/work/workspace2/jwst/src/main/webapp/index.jsp",
+				"/E/work/development tools/apache-maven-3.3.9/conf/settings.xml",
+				"/E/work/smartGit/jwst/.gitignore",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/KeyBoxConfig.properties",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/webapps/keybox.xml",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/jaas.conf",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/bin/jetty.sh",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNSList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNS.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesDNS.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMGCF.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesPCSCF.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteConfFilesList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/configFilesManage.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKAList.jsp",
+				"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFPList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFCList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFC.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELASList.jsp",
+				"/E/work/workspace/logAudit/src/com/sendi/logAudit/citrix/CitrixPersonnalInfoAction.java",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFP.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFP.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFC.js",
+				"/C/Users/Songwen/Desktop/hosts",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKA.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesAKA.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMMTELAS.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELAS.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/selectpicker.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/loadDataFormReset.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage_list.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCityList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/voLteConfigList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCity.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/configFilesManage.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/voLteConfig.js",
+				"/C/Users/Songwen/Downloads/smartsvn.license",
+				"/E/work/development tools/SmartSVN 9.1/licenses/smartsvn.license",
+				"/F/sendi/需求/VOLTE/笔记/各个硬件 网元缩写全称",
+				"/C/Users/Songwen/Desktop/volte_resources.sql",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/confSync_manage.js",
+				"/E/work/workspace/logAudit/WebRoot/system/resetPwd.jsp",
+				"/E/work/workspace/logAudit/WebRoot/page/msgbox/css/msgbox.css",
+				"/E/work/workspace/logAudit/WebRoot/system/js/resetPwd.js",
+				"/E/work/dumps/pengchuang/pengchuang_logsdata.sql",
+				"/C/Users/Songwen/Desktop/temp/sendinmdb.sql",
+				"/E/work/workspace/logAudit/WebRoot/page/css/resetPwd.css",
+				"/E/work/dumps/ifcfg-eth0",
+				"/E/work/dumps/cgred.conf",
+				"/E/work/dumps/network-scripts/network-functions",
+				"/E/work/dumps/network-scripts/network-functions-ipv6",
+				"/E/work/workspace/vtlte/.classpath",
+				"/C/Users/Songwen/Desktop/temp/org.eclipse.core.resources.prefs",
+				"/E/work/dumps/prelink.conf",
+				"/E/work/dumps/profile",
+				"/E/work/dumps/ssh_config",
+				"/E/work/dumps/dhclient.d/nis.sh",
+				"/E/work/development tools/eclipse-jee-mars-2-win32-x86_64/eclipse/artifacts.xml",
+				"/E/work/myfile/js/vakata-jstree-3.2.1-0-g8ea6ce7/vakata-jstree-8ea6ce7/demo/basic/index.html",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/index.html",
+				"/C/Users/Songwen/Desktop/设备导入空指针异常",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/src/main/resources/zrlog.properties",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/developer.md",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/install.md",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/bootstrap-combined.min.css",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/layoutit.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/bootstrap-theme.min.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/style.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/index.html",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/index.html",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/css/layoutit.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/js/scripts.js",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/js/scripts.js",
+				"/F/sendi/需求/VOLTE/笔记/IM-MGW概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/MGCF概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/EPC概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/DRA概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/ENUM概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/SS概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/BAC概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/P-CSCF概念 功能",
+				"/F/sendi/需求/VOLTE/笔记/HSS 概念 功能",
+				"/E/work/dumps/backsup/login.jsp",
+				"/C/Users/Songwen/Desktop/temp/test/test.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ext",
+					"Ext",
+					"pre",
+					"script",
+					"审计类型",
+					",",
+					"select a.serv_nbr",
+					"\\x",
+					"xF3",
+					"\\xF3\\xB8",
+					"tangoColors",
+					"#",
+					"http",
+					"col-sm-3",
+					"		     	\n",
+					"												   \n",
+					"col-sm-3",
+					"												    \n",
+					"												   \n",
+					"search_coveredLand",
+					"col-sm-3",
+					"												   \n",
+					"col-sm-3",
+					"MRFC查询结果",
+					"							                             	\n",
+					"												    \n",
+					")\n",
+					"console.log(data)",
+					"validForm",
+					"()\n",
+					"myModal",
+					"msgdemo2",
+					"addAndModifyForm",
+					"validForm",
+					"		          		\n",
+					"dynMenu",
+					"				\n",
+					"	    \n",
+					"		\n",
+					"<button id=\"btn-sync\" type=\"button\" class=\"btn btn-success ladda-button\" data-style=\"expand-left\" style=\" m",
+					"								",
+					"mask",
+					"							\n",
+					"									",
+					"				\n",
+					"console",
+					"og(val)\n	console.log(type)\n	console.log(row)",
+					"		          		\n",
+					"-->",
+					"console",
+					"setButton",
+					"\">\n",
+					"&",
+					"tabs-left",
+					"mat",
+					"\n								<tr id=\"SMSInput\" style=\"display: true;\">\n									<td width=\"29%\" style=\"vertical-align: top;\" align=\"right\" class=\"login_font\">&#30701;&#20449;&#39564;&#35777;&#30721;&#65306;</td>\n									<td width=\"71%\" align=\"left\"><input type=\"text\" id=\"SMSCode\" name=\"SMSCode\" class=\"loginput\" /><input id=\"login:sendSMS\" name=\"login:sendSMS\" onclick=\"startCount();A4J.AJAX.Submit('login',event,{'similarityGroupingId':'login:sendSMS','parameters':{'login:sendSMS':'login:sendSMS'} } );return false;\" value=\"&#33719;&#21462;\" type=\"button\" /></td>\n								</tr>",
+					"/>\n",
+					"hidden",
+					"						\n",
+					"				\n",
+					"					\n",
+					"citrix_token",
+					"queryForDeviceOf90",
+					"linkABlue"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1324.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"f",
+						"font-size"
+					],
+					[
+						"o",
+						"option	Tag"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"data",
+						"datas"
+					],
+					[
+						"node",
+						"node"
+					],
+					[
+						"json",
+						"jsonUrl"
+					],
+					[
+						"obj",
+						"objtip"
+					],
+					[
+						"ma",
+						"margin-left"
+					],
+					[
+						"onc",
+						"onclick	Attr"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"is",
+						"isNull"
+					],
+					[
+						"s",
+						"script	Tag"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"st",
+						"style	Tag"
+					],
+					[
+						"l",
+						"li	Tag"
+					],
+					[
+						"i",
+						"input	Tag"
+					],
+					[
+						"di",
+						"div	Tag"
+					],
+					[
+						"t",
+						"td	Tag"
+					],
+					[
+						"adu",
+						"audit_time"
+					],
+					[
+						"sele",
+						"SELECT"
+					],
+					[
+						"ins",
+						"INSERT"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Frame 0: 106 bytes on wire (848 bits), 106 bytes captured (848 bits)\n  Encapsulation type: Unknown (156)\n  Frame Number: 0\n  Frame Length: 106 bytes (848 bits)\n  Capture Length: 106 bytes (848 bits)\n  [Frame is marked: False]\n  [Frame is ignored: False]\n  [Protocols in frame: intone:eth:ipv6:udp:rtp:iuup]\n  Point-to-Point Direction: Sent (0)\nInTone Packet Header\n  Version: 1\n  Packet Length: 106\n  Link type: 1\n  Protocol id: 71\n  Card type: Lan\n  Card id: 4\n  Port id: 0\n  Direction: None\n  Time Slot: 0\n  TS numbers: 128\n  Arrival Time: Apr  1, 2016 00:02:19.885436000 中国标准时间\nEthernet II, Src: 88:cf:98:e9 (88:cf:98:e9:bc:f8), Dst: 88:cf:98:e9 (94:04:9c:ce:2d:9a)\n  Destination: 94:04:9c:ce (94:04:9c:ce:2d:9a)\n    Address: 94:04:9c:ce (94:04:9c:ce:2d:9a)\n    .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)\n    .... ...0 .... .... .... .... = IG bit: Individual address (unicast)\n  Source: 88:cf:98:e9 (88:cf:98:e9:bc:f8)\n    Address: 88:cf:98:e9 (88:cf:98:e9:bc:f8)\n    .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)\n    .... ...0 .... .... .... .... = IG bit: Individual address (unicast)\n  Type: IPv6 (0x86dd)\nInternet Protocol Version 6, Src:   (2409:801c:400::103), Dst:   (2409:880c:a00:84:1:1:5c65:8c8b)\n  0110 .... = Version: 6\n    [0110 .... = This field makes the filter \"ip.version == 6\" possible: 6]\n  .... 1011 1000 .... .... .... .... .... = Traffic class: 0x000000b8\n    .... 1011 10.. .... .... .... .... .... = Differentiated Services Field: Expedited Forwarding (0x0000002e)\n    .... .... ..0. .... .... .... .... .... = ECN-Capable Transport (ECT): Not set\n    .... .... ...0 .... .... .... .... .... = ECN-CE: Not set\n  .... .... .... 0000 0000 0000 0000 0000 = Flowlabel: 0x00000000\n  Payload length: 52\n  Next header: UDP (17)\n  Hop limit: 60\n  Source: 2409:801c:400::103 (2409:801c:400::103)\n  Destination: 2409:880c:a00:84:1:1:5c65:8c8b (2409:880c:a00:84:1:1:5c65:8c8b)\n  [Source GeoIP: Unknown]\n  [Destination GeoIP: Unknown]\nUser Datagram Protocol, Src Port: 25988 (25988), Dst Port: 14712 (14712)\n  Source port: 25988 (25988)\n  Destination port: 14712 (14712)\n  Length: 52\n  Checksum: 0x3e84 [validation disabled]\n    [Good Checksum: False]\n    [Bad Checksum: False]\nReal-Time Transport Protocol\n  10.. .... = Version: RFC 1889 Version (2)\n  ..0. .... = Padding: False\n  ...0 .... = Extension: False\n  .... 0000 = Contributing source identifiers count: 0\n  0... .... = Marker: False\n  Payload type: DynamicRTP-Type-102 (102)\n  Sequence number: 957\n  Timestamp: 5280\n  Synchronization Source identifier: 0x000000b7 (183)\nIuUP\n  1111 .... = PDU Type: Unknown (15)\n\n",
+					"settings":
+					{
+						"buffer_size": 2665,
+						"line_ending": "Windows",
+						"name": "Frame 0: 106 bytes on wire (848 bits), 106 bytes c"
+					}
+				},
+				{
+					"contents": "{\n\n    \"zjcz\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"主叫承载建立时延< 50(ms)\",\n    			\"count\":\"4\",\n    			\"rate\":\"0.00%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"主叫承载建立时延50-100(ms)\",\n    			\"count\":\"2180\",\n    			\"rate\":\"1.90%\",\n    			\"type\":\"excellent\"\n    		},{\n    			\"timedelay\":\"主叫承载建立时延100-150(ms)\",\n    			\"count\":\"3518\",\n    			\"rate\":\"3.07%\",\n    			\"type\":\"jige\"\n    		},{\n    			\"timedelay\":\"主叫承载建立时延150-200(ms)\",\n    			\"count\":\"15134\",\n    			\"rate\":\"13.22%\",\n    			\"type\":\"bujige\"\n    		},{\n    			\"timedelay\":\"主叫承载建立时延>200(ms)\",\n    			\"count\":\"93063\",\n    			\"rate\":\"81.27%\",\n    			\"type\":\"bujige\"\n    		}\n    	],\n    	\"totalCount\":\"113899\",\n    	\"totalRate\":\"99.47%\",\n    	\"data2\":{\n    		\"up\":\"12323\",\n    	    \"down\":\"345.32\"\n    	}\n    },\n    \"zjhj\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"主叫呼叫控制0-100(ms)\",\n    			\"count\":\"48060\",\n    			\"rate\":\"33.93%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"主叫呼叫控制100-200(ms)\",\n    			\"count\":\"35707\",\n    			\"rate\":\"25.21%\",\n    			\"type\":\"excellent\"\n    		},{\n    			\"timedelay\":\"主叫呼叫控制>200(ms)\",\n    			\"count\":\"57488\",\n    			\"rate\":\"40.59%\",\n    			\"type\":\"jige\"\n    		}\n    	],\n    	\"totalCount\":\"141255\",\n    	\"totalRate\":\"99.73%\",\n    	\"data2\":{\n    		\"up\":\"\",\n    	    \"down\":\"\"\n    	}\n    },\n    \"imsxz\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"IMS 寻址<50(ms)\",\n    			\"count\":\"33971\",\n    			\"rate\":\"25.06%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"IMS 寻址>50(ms)\",\n    			\"count\":\"100041\",\n    			\"rate\":\"73.80%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"134012\",\n    	\"totalRate\":\"98.86%\",\n    	\"data2\":{\n    		\"up\":\"\",\n    	    \"down\":\"\"\n    	}\n    },\n    \"bjhj\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"被叫呼叫控制<50(ms)\",\n    			\"count\":\"49\",\n    			\"rate\":\"0.26%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"被叫呼叫控制>50(ms)\",\n    			\"count\":\"18985\",\n    			\"rate\":\"99.74%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"19034\",\n    	\"totalRate\":\"100.00%\",\n    	\"data2\":{\n    		\"up\":\"\",\n    	    \"down\":\"\"\n    	}\n    },\n    \"bjwx\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"被叫无线建立<10(ms)\",\n    			\"count\":\"264\",\n    			\"rate\":\"2.20%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"被叫无线建立10-50(ms)\",\n    			\"count\":\"4389\",\n    			\"rate\":\"36.62%\",\n    			\"type\":\"excellent\"\n    		},{\n    			\"timedelay\":\"被叫无线建立>50(ms)\",\n    			\"count\":\"7296\",\n    			\"rate\":\"60.87%\",\n    			\"type\":\"jige\"\n    		}\n    	],\n    	\"totalCount\":\"11949\",\n    	\"totalRate\":\"99.69%\",\n    	\"data2\":{\n    		\"up\":\"\",\n    	    \"down\":\"\"\n    	}\n    },\n    \"bjcz\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"被叫承载建立<50(ms)\",\n    			\"count\":\"663\",\n    			\"rate\":\"5.55%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"被叫承载建立>50(ms)\",\n    			\"count\":\"11283\",\n    			\"rate\":\"94.45%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"11946\",\n    	\"totalRate\":\"100.00%\",\n    	\"data2\":{\n    		\"up\":\"\",\n    	    \"down\":\"\"\n    	}\n    },\n    \"zf183\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"183转发<50(ms)\",\n    			\"count\":\"0\",\n    			\"rate\":\"0.00%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"183转发>50(ms)\",\n    			\"count\":\"20893\",\n    			\"rate\":\"100.00%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"20893\",\n    	\"totalRate\":\"100%\",\n    	\"data2\":{\n    		\"up\":\"129.51\",\n    	    \"down\":\"20893\"\n    	}\n    },\n    \"zjwx\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"主叫无线建立<50(ms)\",\n    			\"count\":\"25280\",\n    			\"rate\":\"16.58%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"主叫无线建立>50(ms)\",\n    			\"count\":\"126052\",\n    			\"rate\":\"82.67%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"151332\",\n    	\"totalRate\":\"99.24%\",\n    	\"data2\":{\n    		\"up\":\"140.17\",\n    	    \"down\":\"152484\"\n    	}\n    },\n    \"zjupdate\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"主叫Update<50(ms)\",\n    			\"count\":\"8914\",\n    			\"rate\":\"5.90%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"主叫Update>50(ms)\",\n    			\"count\":\"142192\",\n    			\"rate\":\"94.07%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"151106\",\n    	\"totalRate\":\"99.97%\",\n    	\"data2\":{\n    		\"up\":\"247.30\",\n    	    \"down\":\"151148\"\n    	}\n    },\n    \"updatezf\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"Update转发<50\",\n    			\"count\":\"0\",\n    			\"rate\":\"0.00%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"Update转发>50\",\n    			\"count\":\"20821\",\n    			\"rate\":\"100.00%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"20821\",\n    	\"totalRate\":\"100.00%\",\n    	\"data2\":{\n    		\"up\":\"120.70\",\n    	    \"down\":\"20821\"\n    	}\n    },\n    \"bjupdate\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"被叫Update<50(ms)\",\n    			\"count\":\"11509\",\n    			\"rate\":\"55.14%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"被叫Update>50(ms)\",\n    			\"count\":\"8978\",\n    			\"rate\":\"43.01%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"20487\",\n    	\"totalRate\":\"98.15%\",\n    	\"data2\":{\n    		\"up\":\"75.90\",\n    	    \"down\":\"20873\"\n    	}\n    },\n    \"ringzf\":{\n    	\"data\":[\n    		{\n    			\"timedelay\":\"Ring转发 < 50(ms)\",\n    			\"count\":\"0\",\n    			\"rate\":\"0.00%\",\n    			\"type\":\"normal\"\n    		},{\n    			\"timedelay\":\"Ring转发 > 50(ms)\",\n    			\"count\":\"20713\",\n    			\"rate\":\"100%\",\n    			\"type\":\"excellent\"\n    		}\n    	],\n    	\"totalCount\":\"20713\",\n    	\"totalRate\":\"100.00%\",\n    	\"data2\":{\n    		\"up\":\"135.34\",\n    	    \"down\":\"20713\"\n    	}\n    }\n\n\n}",
+					"file": "/C/Users/Songwen/Desktop/yugu.json",
+					"file_size": 5699,
+					"file_write_time": 131069799911124306,
+					"settings":
+					{
+						"buffer_size": 5427,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{\n    \"zjcz\":{\n        \"data\":[\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"7\",\n                \"rate\":\"63.64\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"4\",\n                \"rate\":\"36.36\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"11\",\n        \"totalRate\":\"0.05\",\n        \"data2\":{\n            \"up\":\"11\",\n            \"down\":\"11\"\n        }\n    },\n    \"zjhj\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030001\",\n                \"count\":\"214\",\n                \"rate\":\"35.26\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"2\",\n                \"rate\":\"0.33\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030017\",\n                \"count\":\"43\",\n                \"rate\":\"7.08\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030020\",\n                \"count\":\"10\",\n                \"rate\":\"1.65\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030021\",\n                \"count\":\"22\",\n                \"rate\":\"3.62\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030028\",\n                \"count\":\"3\",\n                \"rate\":\"0.49\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000001\",\n                \"count\":\"3\",\n                \"rate\":\"0.49\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"37\",\n                \"rate\":\"6.1\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000404\",\n                \"count\":\"9\",\n                \"rate\":\"1.48\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"20\",\n                \"rate\":\"3.29\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000486\",\n                \"count\":\"151\",\n                \"rate\":\"24.88\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"72\",\n                \"rate\":\"11.86\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000488\",\n                \"count\":\"2\",\n                \"rate\":\"0.33\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"3\",\n                \"rate\":\"0.49\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000504\",\n                \"count\":\"1\",\n                \"rate\":\"0.16\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000403\",\n                \"count\":\"8\",\n                \"rate\":\"1.32\",\n                \"department\":\"2\",\n                \"type\":\"2\"\n            },\n            {\n                \"timedelay\":\"20000404\",\n                \"count\":\"7\",\n                \"rate\":\"1.15\",\n                \"department\":\"2\",\n                \"type\":\"2\"\n            }\n        ],\n        \"totalCount\":\"607\",\n        \"totalRate\":\"2.8\",\n        \"data2\":{\n            \"up\":\"607\",\n            \"down\":\"607\"\n        }\n    },\n    \"imsxz\":{\n        \"data\":[\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"1\",\n                \"rate\":\"14.29\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"6\",\n                \"rate\":\"85.71\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"7\",\n        \"totalRate\":\"0.03\",\n        \"data2\":{\n            \"up\":\"7\",\n            \"down\":\"7\"\n        }\n    },\n    \"bjhj\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"3\",\n                \"rate\":\"0.96\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030017\",\n                \"count\":\"56\",\n                \"rate\":\"17.89\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030020\",\n                \"count\":\"4\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000001\",\n                \"count\":\"1\",\n                \"rate\":\"0.32\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"17\",\n                \"rate\":\"5.43\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000408\",\n                \"count\":\"4\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"7\",\n                \"rate\":\"2.24\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000486\",\n                \"count\":\"139\",\n                \"rate\":\"44.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"63\",\n                \"rate\":\"20.13\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000488\",\n                \"count\":\"7\",\n                \"rate\":\"2.24\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000491\",\n                \"count\":\"1\",\n                \"rate\":\"0.32\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"11\",\n                \"rate\":\"3.51\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"313\",\n        \"totalRate\":\"1.44\",\n        \"data2\":{\n            \"up\":\"313\",\n            \"down\":\"313\"\n        }\n    },\n    \"bjwx\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"1\",\n                \"rate\":\"16.67\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"5\",\n                \"rate\":\"83.33\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"6\",\n        \"totalRate\":\"0.03\",\n        \"data2\":{\n            \"up\":\"6\",\n            \"down\":\"6\"\n        }\n    },\n    \"bjcz\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030001\",\n                \"count\":\"1\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"1\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"1\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000408\",\n                \"count\":\"2\",\n                \"rate\":\"2.56\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000486\",\n                \"count\":\"1\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"69\",\n                \"rate\":\"88.46\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"1\",\n                \"rate\":\"1.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"2\",\n                \"rate\":\"2.56\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"78\",\n        \"totalRate\":\"0.36\",\n        \"data2\":{\n            \"up\":\"78\",\n            \"down\":\"78\"\n        }\n    },\n    \"zf183\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030001\",\n                \"count\":\"6\",\n                \"rate\":\"2.24\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"15\",\n                \"rate\":\"5.6\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030017\",\n                \"count\":\"21\",\n                \"rate\":\"7.84\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030019\",\n                \"count\":\"2\",\n                \"rate\":\"0.75\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030027\",\n                \"count\":\"1\",\n                \"rate\":\"0.37\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030031\",\n                \"count\":\"3\",\n                \"rate\":\"1.12\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030041\",\n                \"count\":\"1\",\n                \"rate\":\"0.37\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030102\",\n                \"count\":\"12\",\n                \"rate\":\"4.48\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030127\",\n                \"count\":\"4\",\n                \"rate\":\"1.49\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"24\",\n                \"rate\":\"8.96\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000404\",\n                \"count\":\"1\",\n                \"rate\":\"0.37\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"3\",\n                \"rate\":\"1.12\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000481\",\n                \"count\":\"1\",\n                \"rate\":\"0.37\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"65\",\n                \"rate\":\"24.25\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000502\",\n                \"count\":\"2\",\n                \"rate\":\"0.75\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"105\",\n                \"rate\":\"39.18\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"30015102\",\n                \"count\":\"2\",\n                \"rate\":\"0.75\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"268\",\n        \"totalRate\":\"1.24\",\n        \"data2\":{\n            \"up\":\"268\",\n            \"down\":\"268\"\n        }\n    },\n    \"zjwx\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"1\",\n                \"rate\":\"0.46\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030041\",\n                \"count\":\"1\",\n                \"rate\":\"0.46\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030102\",\n                \"count\":\"21\",\n                \"rate\":\"9.59\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030127\",\n                \"count\":\"15\",\n                \"rate\":\"6.85\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"22\",\n                \"rate\":\"10.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000481\",\n                \"count\":\"1\",\n                \"rate\":\"0.46\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"119\",\n                \"rate\":\"54.34\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"2\",\n                \"rate\":\"0.91\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"37\",\n                \"rate\":\"16.89\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"219\",\n        \"totalRate\":\"1.01\",\n        \"data2\":{\n            \"up\":\"219\",\n            \"down\":\"219\"\n        }\n    },\n    \"zjupdate\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030001\",\n                \"count\":\"88\",\n                \"rate\":\"2.03\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030003\",\n                \"count\":\"13\",\n                \"rate\":\"0.3\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030004\",\n                \"count\":\"87\",\n                \"rate\":\"2.0\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"44\",\n                \"rate\":\"1.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030017\",\n                \"count\":\"1225\",\n                \"rate\":\"28.21\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030018\",\n                \"count\":\"191\",\n                \"rate\":\"4.4\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030019\",\n                \"count\":\"1\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030020\",\n                \"count\":\"170\",\n                \"rate\":\"3.92\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030021\",\n                \"count\":\"26\",\n                \"rate\":\"0.6\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030027\",\n                \"count\":\"11\",\n                \"rate\":\"0.25\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030028\",\n                \"count\":\"19\",\n                \"rate\":\"0.44\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030031\",\n                \"count\":\"27\",\n                \"rate\":\"0.62\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030034\",\n                \"count\":\"12\",\n                \"rate\":\"0.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030038\",\n                \"count\":\"8\",\n                \"rate\":\"0.18\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030041\",\n                \"count\":\"26\",\n                \"rate\":\"0.6\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030044\",\n                \"count\":\"9\",\n                \"rate\":\"0.21\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030047\",\n                \"count\":\"3\",\n                \"rate\":\"0.07\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030057\",\n                \"count\":\"2\",\n                \"rate\":\"0.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030066\",\n                \"count\":\"14\",\n                \"rate\":\"0.32\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030088\",\n                \"count\":\"2\",\n                \"rate\":\"0.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030102\",\n                \"count\":\"72\",\n                \"rate\":\"1.66\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030111\",\n                \"count\":\"1\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030127\",\n                \"count\":\"26\",\n                \"rate\":\"0.6\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"19\",\n                \"rate\":\"0.44\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000404\",\n                \"count\":\"4\",\n                \"rate\":\"0.09\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000408\",\n                \"count\":\"5\",\n                \"rate\":\"0.12\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"15\",\n                \"rate\":\"0.35\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000481\",\n                \"count\":\"1\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000486\",\n                \"count\":\"30\",\n                \"rate\":\"0.69\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"2023\",\n                \"rate\":\"46.59\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000491\",\n                \"count\":\"3\",\n                \"rate\":\"0.07\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"18\",\n                \"rate\":\"0.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000501\",\n                \"count\":\"1\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"115\",\n                \"rate\":\"2.65\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000504\",\n                \"count\":\"5\",\n                \"rate\":\"0.12\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"30015102\",\n                \"count\":\"25\",\n                \"rate\":\"0.58\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"40000073\",\n                \"count\":\"1\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"4342\",\n        \"totalRate\":\"20.04\",\n        \"data2\":{\n            \"up\":\"4342\",\n            \"down\":\"4342\"\n        }\n    },\n    \"updatezf\":{\n        \"data\":[\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"1\",\n                \"rate\":\"6.67\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"8\",\n                \"rate\":\"53.33\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000491\",\n                \"count\":\"2\",\n                \"rate\":\"13.33\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"3\",\n                \"rate\":\"20.0\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000580\",\n                \"count\":\"1\",\n                \"rate\":\"6.67\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"15\",\n        \"totalRate\":\"0.07\",\n        \"data2\":{\n            \"up\":\"15\",\n            \"down\":\"15\"\n        }\n    },\n    \"bjupdate\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"2\",\n                \"rate\":\"2.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030066\",\n                \"count\":\"2\",\n                \"rate\":\"2.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"71\",\n                \"rate\":\"85.54\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000491\",\n                \"count\":\"2\",\n                \"rate\":\"2.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"4\",\n                \"rate\":\"4.82\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"2\",\n                \"rate\":\"2.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            }\n        ],\n        \"totalCount\":\"83\",\n        \"totalRate\":\"0.38\",\n        \"data2\":{\n            \"up\":\"83\",\n            \"down\":\"83\"\n        }\n    },\n    \"ringzf\":{\n        \"data\":[\n            {\n                \"timedelay\":\"1030001\",\n                \"count\":\"8\",\n                \"rate\":\"0.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030004\",\n                \"count\":\"5\",\n                \"rate\":\"0.03\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030016\",\n                \"count\":\"8238\",\n                \"rate\":\"52.41\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030017\",\n                \"count\":\"405\",\n                \"rate\":\"2.58\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030018\",\n                \"count\":\"1\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030019\",\n                \"count\":\"729\",\n                \"rate\":\"4.64\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030020\",\n                \"count\":\"10\",\n                \"rate\":\"0.06\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030021\",\n                \"count\":\"2\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030027\",\n                \"count\":\"44\",\n                \"rate\":\"0.28\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030031\",\n                \"count\":\"17\",\n                \"rate\":\"0.11\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030038\",\n                \"count\":\"1\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030041\",\n                \"count\":\"3\",\n                \"rate\":\"0.02\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030047\",\n                \"count\":\"2\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030066\",\n                \"count\":\"5\",\n                \"rate\":\"0.03\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030088\",\n                \"count\":\"2\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"1030127\",\n                \"count\":\"5\",\n                \"rate\":\"0.03\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000048\",\n                \"count\":\"25\",\n                \"rate\":\"0.16\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000200\",\n                \"count\":\"107\",\n                \"rate\":\"0.68\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000408\",\n                \"count\":\"109\",\n                \"rate\":\"0.69\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000480\",\n                \"count\":\"83\",\n                \"rate\":\"0.53\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000481\",\n                \"count\":\"5\",\n                \"rate\":\"0.03\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000486\",\n                \"count\":\"8\",\n                \"rate\":\"0.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000487\",\n                \"count\":\"4868\",\n                \"rate\":\"30.97\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000488\",\n                \"count\":\"7\",\n                \"rate\":\"0.04\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000491\",\n                \"count\":\"6\",\n                \"rate\":\"0.04\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000500\",\n                \"count\":\"8\",\n                \"rate\":\"0.05\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000503\",\n                \"count\":\"990\",\n                \"rate\":\"6.3\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"30005012\",\n                \"count\":\"1\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"30015001\",\n                \"count\":\"2\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"30015102\",\n                \"count\":\"1\",\n                \"rate\":\"0.01\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"40000073\",\n                \"count\":\"9\",\n                \"rate\":\"0.06\",\n                \"department\":\"0\",\n                \"type\":\"0\"\n            },\n            {\n                \"timedelay\":\"20000403\",\n                \"count\":\"11\",\n                \"rate\":\"0.07\",\n                \"department\":\"2\",\n                \"type\":\"2\"\n            }\n        ],\n        \"totalCount\":\"15717\",\n        \"totalRate\":\"72.54\",\n        \"data2\":{\n            \"up\":\"15717\",\n            \"down\":\"15717\"\n        }\n    }\n}",
+					"file": "/C/Users/Songwen/Desktop/test.json",
+					"file_size": 3959,
+					"file_write_time": 131072552524084320,
+					"settings":
+					{
+						"buffer_size": 30507,
+						"line_ending": "Windows",
+						"name": "{"
+					}
+				},
+				{
+					"file": "/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFCList.jsp",
+					"settings":
+					{
+						"buffer_size": 11524,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management"
+			],
+			"file_history":
+			[
+				"/C/Users/Songwen/Desktop/医保相关",
+				"/F/sendi/需求/VT移动端/tdr_data_new.sql",
+				"/C/Users/Songwen/Desktop/rtp_cdr.txt",
+				"/F/sendi/需求/VT移动端/flow_info_req.sql",
+				"/E/work/workspace2/ydvolte/WebRoot/temp/1462344948992/160503174910.txt",
+				"/E/work/workspace2/ydvolte/WebRoot/temp/1462344606345/160503174910.txt",
+				"/E/work/workspace2/ydvolte/WebRoot/temp/1462331529241/160503174416.pcap",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKAList.jsp",
+				"/E/work/development tools/apache-maven-3.3.9/conf/settings.xml",
+				"/E/work/smartGit/jwst/.gitignore",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/KeyBoxConfig.properties",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/webapps/keybox.xml",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/keybox/WEB-INF/classes/jaas.conf",
+				"/C/Users/Songwen/Desktop/webtemp/keybox-jetty-v2.85_02/KeyBox-jetty/jetty/bin/jetty.sh",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNSList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesDNS.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesDNS.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMGCF.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMGCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesPCSCF.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesPCSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteConfFilesList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/configFilesManage.jsp",
+				"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesICSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesSCSCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCF.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesBGCFList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFPList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFCList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFC.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELASList.jsp",
+				"/E/work/workspace/logAudit/src/com/sendi/logAudit/citrix/CitrixPersonnalInfoAction.java",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFP.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFP.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMRFC.js",
+				"/C/Users/Songwen/Desktop/hosts",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesAKA.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesAKA.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/resourcesMMTELAS.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMMTELAS.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/selectpicker.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/js/loadDataFormReset.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage_list.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCityList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/voLteConfigList.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/volteCity.jsp",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/configFilesManage.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/voLteConfig.js",
+				"/C/Users/Songwen/Downloads/smartsvn.license",
+				"/E/work/development tools/SmartSVN 9.1/licenses/smartsvn.license",
+				"/F/sendi/需求/VOLTE/笔记/各个硬件 网元缩写全称",
+				"/C/Users/Songwen/Desktop/volte_resources.sql",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/config_manage.js",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/confSync_manage.js",
+				"/E/work/workspace/logAudit/WebRoot/system/resetPwd.jsp",
+				"/E/work/workspace/logAudit/WebRoot/page/msgbox/css/msgbox.css",
+				"/E/work/workspace/logAudit/WebRoot/system/js/resetPwd.js",
+				"/E/work/dumps/pengchuang/pengchuang_logsdata.sql",
+				"/C/Users/Songwen/Desktop/temp/sendinmdb.sql",
+				"/E/work/workspace/logAudit/WebRoot/page/css/resetPwd.css",
+				"/E/work/dumps/ifcfg-eth0",
+				"/E/work/dumps/cgred.conf",
+				"/E/work/dumps/network-scripts/network-functions",
+				"/E/work/dumps/network-scripts/network-functions-ipv6",
+				"/E/work/workspace/vtlte/.classpath",
+				"/C/Users/Songwen/Desktop/temp/org.eclipse.core.resources.prefs",
+				"/E/work/dumps/prelink.conf",
+				"/E/work/dumps/profile",
+				"/E/work/dumps/ssh_config",
+				"/E/work/dumps/dhclient.d/nis.sh",
+				"/E/work/development tools/eclipse-jee-mars-2-win32-x86_64/eclipse/artifacts.xml",
+				"/E/work/myfile/js/vakata-jstree-3.2.1-0-g8ea6ce7/vakata-jstree-8ea6ce7/demo/basic/index.html",
+				"/E/work/workspace2/vtlte/WebRoot/vtlte/page/config_manage/js/index.html",
+				"/C/Users/Songwen/Desktop/设备导入空指针异常",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/src/main/resources/zrlog.properties",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/developer.md",
+				"/C/Users/Songwen/Desktop/temp/94fzb-zrlog-master/zrlog/doc/install.md",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/bootstrap-combined.min.css",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/css/layoutit.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/bootstrap-theme.min.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/1457516112.layoutit/layoutit/src/css/style.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/index.html",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/index.html",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/css/layoutit.css",
+				"/C/Users/Songwen/Desktop/temp/votel demo/layoutit/src/js/scripts.js",
+				"/C/Users/Songwen/Desktop/temp/layoutit-gh-pages/js/scripts.js",
+				"/F/sendi/需求/VOLTE/笔记/IM-MGW概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/MGCF概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/EPC概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/DRA概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/ENUM概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/SS概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/BAC概念及相关资料",
+				"/F/sendi/需求/VOLTE/笔记/P-CSCF概念 功能",
+				"/F/sendi/需求/VOLTE/笔记/HSS 概念 功能",
+				"/E/work/dumps/backsup/login.jsp",
+				"/C/Users/Songwen/Desktop/temp/test/test.html",
+				"/E/work/dumps/backsup/image.jsp",
+				"/E/work/dumps/backsup/login_log_verify.jsp",
+				"/E/work/dumps/createtab.sql",
+				"/E/work/dumps/createtab_data.sql",
+				"/C/Users/Songwen/Desktop/login.jsp",
+				"/E/work/dumps/backsup/web.xml",
+				"/C/Users/Songwen/Desktop/temp/pengchuang_logs.sql",
+				"/C/Users/Songwen/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Songwen/Desktop/test.html",
+				"/E/work/dumps/backsup/dwr.xml",
+				"/E/work/dumps/backsup/applicationContext-Service.xml",
+				"/E/work/dumps/backsup/struts-loginTableReport.xml",
+				"/F/sendi/需求/认证中心/cademo/AccountServiceDemo.java",
+				"/F/sendi/需求/认证中心/cademo/LogServiceDemo.java",
+				"/F/sendi/需求/认证中心/cademo/AuthorizationServiceDemo.java",
+				"/F/sendi/需求/认证中心/cademo/AuthenticationServiceDemo.java",
+				"/C/Users/Songwen/Desktop/temp/pd-483730e8-ad47-11e4-a1ca-00163e001348/表单验证/index.css",
+				"/C/Users/Songwen/Desktop/temp/pd-483730e8-ad47-11e4-a1ca-00163e001348/表单验证/index.html",
+				"/C/Users/Songwen/Desktop/temp/CSSButtonsPseudoElements/css/demo.css",
+				"/C/Users/Songwen/Desktop/temp/CSSButtonsPseudoElements/css/style1.css",
+				"/C/Users/Songwen/Desktop/temp/CSSButtonsPseudoElements/index.html",
+				"/C/Users/Songwen/Downloads/jquery.min.js",
+				"/F/sendi/需求/认证中心/cademo/Test.java",
+				"/E/work/workspace/logAudit/WebRoot/page/common/jquery/jquery.msgbox.min.js",
+				"/C/Users/Songwen/Desktop/temp/pengchuang_user.sql"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Internet Protocol",
+					"`115.169.132.201`",
+					"115.169.132.201",
+					"col-sm-3",
+					"		     	\n",
+					"												   \n",
+					"col-sm-3",
+					"												    \n",
+					"												   \n",
+					"search_coveredLand",
+					"col-sm-3",
+					"												   \n",
+					"col-sm-3",
+					"MRFC查询结果",
+					"							                             	\n",
+					"												    \n",
+					")\n",
+					"console.log(data)",
+					"validForm",
+					"()\n",
+					"myModal",
+					"msgdemo2",
+					"addAndModifyForm",
+					"validForm",
+					"		          		\n",
+					"dynMenu",
+					"				\n",
+					"	    \n",
+					"		\n",
+					"<button id=\"btn-sync\" type=\"button\" class=\"btn btn-success ladda-button\" data-style=\"expand-left\" style=\" m",
+					"								",
+					"mask",
+					"							\n",
+					"									",
+					"				\n",
+					"console",
+					"og(val)\n	console.log(type)\n	console.log(row)",
+					"		          		\n",
+					"-->",
+					"console",
+					"setButton",
+					"\">\n",
+					"&",
+					"tabs-left",
+					"mat",
+					"\n								<tr id=\"SMSInput\" style=\"display: true;\">\n									<td width=\"29%\" style=\"vertical-align: top;\" align=\"right\" class=\"login_font\">&#30701;&#20449;&#39564;&#35777;&#30721;&#65306;</td>\n									<td width=\"71%\" align=\"left\"><input type=\"text\" id=\"SMSCode\" name=\"SMSCode\" class=\"loginput\" /><input id=\"login:sendSMS\" name=\"login:sendSMS\" onclick=\"startCount();A4J.AJAX.Submit('login',event,{'similarityGroupingId':'login:sendSMS','parameters':{'login:sendSMS':'login:sendSMS'} } );return false;\" value=\"&#33719;&#21462;\" type=\"button\" /></td>\n								</tr>",
+					"/>\n",
+					"hidden",
+					"						\n",
+					"				\n",
+					"					\n",
+					"citrix_token",
+					"queryForDeviceOf90",
+					"linkABlue"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2665,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1890,
+										1841
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Frame 0: 106 bytes on wire (848 bits), 106 bytes c",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Songwen/Desktop/yugu.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5427,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										265,
+										265
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Songwen/Desktop/test.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										496,
+										496
+									]
+								],
+								"settings":
+								{
+									"auto_name": "{",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/work/workspace2/vtlte/WebRoot/vtlte/page/resource_management/resourcesMRFCList.jsp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11524,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1581,
+										1536
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32030,-1,-1,823,-196,43,1144",
+			"project": "vitepage.sublime-project",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": "/E/work/workspace2/sublimework/vitepage.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/work/workspace2/sublimework/vitepage.sublime-workspace",
+			"/E/work/gitwork/jwst/jwst.sublime-workspace",
+			"/E/work/workspace2/sublimework/jwst.sublime-workspace",
+			"/E/work/workspace2/sublimework/vitePage.sublime-workspace"
+		]
+	}
+}
